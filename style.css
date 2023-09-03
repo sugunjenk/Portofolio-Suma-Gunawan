@@ -59,7 +59,7 @@ a {
   & h1 {
     color: var(--white);
     font-weight: 700;
-    font-size: 70px;
+    font-size: 60px;
 
     & .nameClr {
       color: var(--purle);
@@ -72,7 +72,7 @@ a {
     font-family: Helvetica, "sans-serif";
     transition: all 0.2s;
     padding: 10px 20px;
-    border-radius: 70px;
+    border-radius: 60px;
     background: var(--white);
     color: var(--purle);
     border: 1px solid transparent;
